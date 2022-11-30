@@ -1,0 +1,19 @@
+.body{
+    color: #000;
+}
+
+.center{
+    text-align: center;
+    display: block; 
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+.text{
+    text-align: left;
+}
+.font{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
